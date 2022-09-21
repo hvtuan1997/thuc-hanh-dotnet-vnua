@@ -3,3 +3,4 @@
 
 - Buổi 1: Ôn tập và thực hành Console + winform cơ bản
 - Buổi 2: Winform nâng cao + kết nối và truy vấn CSDL
+- Buổi 3: Winform nâng cao + thêm, sửa, xóa dữ liệu với CSDL

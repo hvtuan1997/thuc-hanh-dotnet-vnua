@@ -110,13 +110,13 @@ insert into SinhVien values('0200000004',N'Đào Văn Út',N'Nữ','7/08/1989','
 insert into SinhVien values('0200000005',N'Hoàng Văn Bé',N'Nam','7/08/1989','Ha Noi','MT3')
 insert into SinhVien values('0200000006',N'Đào Bá Vân',N'Nam','7/08/1989','Ha Noi','MT3')
 insert into SinhVien values('0200000007',N'Trần Trọng Vinh',N'Nam','7/08/1989','Hai Duong','MT2')
-insert into SinhVien values('0200000007',N'Nguyễn Bá Hoàng',N'Nam','7/08/1989','Hai Duong','MT2')
-insert into SinhVien values('0200000008',N'Lê Văn Bá',N'Nam','7/08/1989','Ha Nam','MT2')
-insert into SinhVien values('0200000009',N'Phan Thị Ngọc Linh',N'Nữ','7/08/1989','Bac Giang','MT4')
-insert into SinhVien values('0200000010',N'Vũ Văn Thưởng',N'Nữ','7/08/1989','Ha Noi','MT4')
-insert into SinhVien values('0200000011',N'Lê Thị Út',N'Nam','7/08/1989','Hai Duong','MT4')
-insert into SinhVien values('0200000012',N'Đào Bá Khải',N'Nam','7/08/1989','Nam Dinh','MT1')
-insert into SinhVien values('0200000013',N'Trần Thị Thanh Tâm',N'Nam','7/08/1989','Nam Dinh','KT1')
+insert into SinhVien values('0200000008',N'Nguyễn Bá Hoàng',N'Nam','7/08/1989','Hai Duong','MT2')
+insert into SinhVien values('0200000009',N'Lê Văn Bá',N'Nam','7/08/1989','Ha Nam','MT2')
+insert into SinhVien values('0200000010',N'Phan Thị Ngọc Linh',N'Nữ','7/08/1989','Bac Giang','MT4')
+insert into SinhVien values('0200000011',N'Vũ Văn Thưởng',N'Nữ','7/08/1989','Ha Noi','MT4')
+insert into SinhVien values('0200000012',N'Lê Thị Út',N'Nam','7/08/1989','Hai Duong','MT4')
+insert into SinhVien values('0200000013',N'Đào Bá Khải',N'Nam','7/08/1989','Nam Dinh','MT1')
+insert into SinhVien values('0200000014',N'Trần Thị Thanh Tâm',N'Nam','7/08/1989','Nam Dinh','KT1')
 
 select * from SinhVien
 
