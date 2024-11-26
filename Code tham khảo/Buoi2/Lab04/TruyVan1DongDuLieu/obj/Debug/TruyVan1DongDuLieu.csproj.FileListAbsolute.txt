@@ -1,0 +1,11 @@
+D:\LT_NET_nhom2_ca2\Buoi_2\Lab04\TruyVan1DongDuLieu\bin\Debug\TruyVan1DongDuLieu.exe.config
+D:\LT_NET_nhom2_ca2\Buoi_2\Lab04\TruyVan1DongDuLieu\bin\Debug\TruyVan1DongDuLieu.exe
+D:\LT_NET_nhom2_ca2\Buoi_2\Lab04\TruyVan1DongDuLieu\bin\Debug\TruyVan1DongDuLieu.pdb
+D:\LT_NET_nhom2_ca2\Buoi_2\Lab04\TruyVan1DongDuLieu\obj\Debug\TruyVan1DongDuLieu.csproj.AssemblyReference.cache
+D:\LT_NET_nhom2_ca2\Buoi_2\Lab04\TruyVan1DongDuLieu\obj\Debug\TruyVan1DongDuLieu.csproj.SuggestedBindingRedirects.cache
+D:\LT_NET_nhom2_ca2\Buoi_2\Lab04\TruyVan1DongDuLieu\obj\Debug\TruyVan1DongDuLieu.Form1.resources
+D:\LT_NET_nhom2_ca2\Buoi_2\Lab04\TruyVan1DongDuLieu\obj\Debug\TruyVan1DongDuLieu.Properties.Resources.resources
+D:\LT_NET_nhom2_ca2\Buoi_2\Lab04\TruyVan1DongDuLieu\obj\Debug\TruyVan1DongDuLieu.csproj.GenerateResource.cache
+D:\LT_NET_nhom2_ca2\Buoi_2\Lab04\TruyVan1DongDuLieu\obj\Debug\TruyVan1DongDuLieu.csproj.CoreCompileInputs.cache
+D:\LT_NET_nhom2_ca2\Buoi_2\Lab04\TruyVan1DongDuLieu\obj\Debug\TruyVan1DongDuLieu.exe
+D:\LT_NET_nhom2_ca2\Buoi_2\Lab04\TruyVan1DongDuLieu\obj\Debug\TruyVan1DongDuLieu.pdb

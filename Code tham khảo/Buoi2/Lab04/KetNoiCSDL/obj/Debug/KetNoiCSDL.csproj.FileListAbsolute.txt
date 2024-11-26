@@ -1,0 +1,11 @@
+D:\LT_NET_nhom2_ca2\Buoi_2\Lab04\KetNoiCSDL\bin\Debug\KetNoiCSDL.exe.config
+D:\LT_NET_nhom2_ca2\Buoi_2\Lab04\KetNoiCSDL\bin\Debug\KetNoiCSDL.exe
+D:\LT_NET_nhom2_ca2\Buoi_2\Lab04\KetNoiCSDL\bin\Debug\KetNoiCSDL.pdb
+D:\LT_NET_nhom2_ca2\Buoi_2\Lab04\KetNoiCSDL\obj\Debug\KetNoiCSDL.csproj.AssemblyReference.cache
+D:\LT_NET_nhom2_ca2\Buoi_2\Lab04\KetNoiCSDL\obj\Debug\KetNoiCSDL.csproj.SuggestedBindingRedirects.cache
+D:\LT_NET_nhom2_ca2\Buoi_2\Lab04\KetNoiCSDL\obj\Debug\KetNoiCSDL.Form1.resources
+D:\LT_NET_nhom2_ca2\Buoi_2\Lab04\KetNoiCSDL\obj\Debug\KetNoiCSDL.Properties.Resources.resources
+D:\LT_NET_nhom2_ca2\Buoi_2\Lab04\KetNoiCSDL\obj\Debug\KetNoiCSDL.csproj.GenerateResource.cache
+D:\LT_NET_nhom2_ca2\Buoi_2\Lab04\KetNoiCSDL\obj\Debug\KetNoiCSDL.csproj.CoreCompileInputs.cache
+D:\LT_NET_nhom2_ca2\Buoi_2\Lab04\KetNoiCSDL\obj\Debug\KetNoiCSDL.exe
+D:\LT_NET_nhom2_ca2\Buoi_2\Lab04\KetNoiCSDL\obj\Debug\KetNoiCSDL.pdb

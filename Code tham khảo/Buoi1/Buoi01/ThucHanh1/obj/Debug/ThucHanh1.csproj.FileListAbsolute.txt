@@ -1,0 +1,11 @@
+D:\LT_NET_hvtuan_N2_C2\Buoi1\Buoi01\ThucHanh1\bin\Debug\ThucHanh1.exe.config
+D:\LT_NET_hvtuan_N2_C2\Buoi1\Buoi01\ThucHanh1\bin\Debug\ThucHanh1.exe
+D:\LT_NET_hvtuan_N2_C2\Buoi1\Buoi01\ThucHanh1\bin\Debug\ThucHanh1.pdb
+D:\LT_NET_hvtuan_N2_C2\Buoi1\Buoi01\ThucHanh1\obj\Debug\ThucHanh1.csproj.AssemblyReference.cache
+D:\LT_NET_hvtuan_N2_C2\Buoi1\Buoi01\ThucHanh1\obj\Debug\ThucHanh1.csproj.SuggestedBindingRedirects.cache
+D:\LT_NET_hvtuan_N2_C2\Buoi1\Buoi01\ThucHanh1\obj\Debug\ThucHanh1.Form1.resources
+D:\LT_NET_hvtuan_N2_C2\Buoi1\Buoi01\ThucHanh1\obj\Debug\ThucHanh1.Properties.Resources.resources
+D:\LT_NET_hvtuan_N2_C2\Buoi1\Buoi01\ThucHanh1\obj\Debug\ThucHanh1.csproj.GenerateResource.cache
+D:\LT_NET_hvtuan_N2_C2\Buoi1\Buoi01\ThucHanh1\obj\Debug\ThucHanh1.csproj.CoreCompileInputs.cache
+D:\LT_NET_hvtuan_N2_C2\Buoi1\Buoi01\ThucHanh1\obj\Debug\ThucHanh1.exe
+D:\LT_NET_hvtuan_N2_C2\Buoi1\Buoi01\ThucHanh1\obj\Debug\ThucHanh1.pdb
